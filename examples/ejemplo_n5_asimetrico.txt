@@ -1,8 +1,0 @@
-# Matriz asimétrica (permitida). Con K=14 es SAT; con K=13 es UNSAT (óptimo = 14, hallado bajando K con el propio solver)
-5
-14
-0 3 8 9 4
-7 0 2 9 6
-8 5 0 4 7
-6 9 3 0 2
-3 6 7 5 0
