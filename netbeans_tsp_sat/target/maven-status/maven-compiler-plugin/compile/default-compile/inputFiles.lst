@@ -1,0 +1,13 @@
+C:\Users\edani\OneDrive\Documentos\NetBeansProjects\tsp_sat\src\main\java\tspsat\bench\Benchmark.java
+C:\Users\edani\OneDrive\Documentos\NetBeansProjects\tsp_sat\src\main\java\tspsat\cnf\CnfFormula.java
+C:\Users\edani\OneDrive\Documentos\NetBeansProjects\tsp_sat\src\main\java\tspsat\decode\SolutionDecoder.java
+C:\Users\edani\OneDrive\Documentos\NetBeansProjects\tsp_sat\src\main\java\tspsat\Ejecutar.java
+C:\Users\edani\OneDrive\Documentos\NetBeansProjects\tsp_sat\src\main\java\tspsat\io\InstanceReader.java
+C:\Users\edani\OneDrive\Documentos\NetBeansProjects\tsp_sat\src\main\java\tspsat\Main.java
+C:\Users\edani\OneDrive\Documentos\NetBeansProjects\tsp_sat\src\main\java\tspsat\model\TspInstance.java
+C:\Users\edani\OneDrive\Documentos\NetBeansProjects\tsp_sat\src\main\java\tspsat\reduction\TspToSatReducer.java
+C:\Users\edani\OneDrive\Documentos\NetBeansProjects\tsp_sat\src\main\java\tspsat\reduction\VariableMap.java
+C:\Users\edani\OneDrive\Documentos\NetBeansProjects\tsp_sat\src\main\java\tspsat\solver\BuiltinCdclSolver.java
+C:\Users\edani\OneDrive\Documentos\NetBeansProjects\tsp_sat\src\main\java\tspsat\solver\Sat4jSolver.java
+C:\Users\edani\OneDrive\Documentos\NetBeansProjects\tsp_sat\src\main\java\tspsat\solver\SatSolver.java
+C:\Users\edani\OneDrive\Documentos\NetBeansProjects\tsp_sat\src\main\java\tspsat\solver\SolveResult.java

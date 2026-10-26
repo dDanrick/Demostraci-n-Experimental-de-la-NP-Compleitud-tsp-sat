@@ -1,0 +1,17 @@
+tspsat\Ejecutar.class
+tspsat\solver\Sat4jSolver.class
+tspsat\solver\SolveResult.class
+tspsat\solver\BuiltinCdclSolver.class
+tspsat\reduction\VariableMap.class
+tspsat\solver\SolveResult$Status.class
+tspsat\bench\Benchmark.class
+tspsat\model\TspInstance.class
+tspsat\cnf\CnfFormula.class
+tspsat\decode\SolutionDecoder.class
+tspsat\Main.class
+tspsat\solver\SatSolver.class
+tspsat\reduction\TspToSatReducer.class
+tspsat\reduction\TspToSatReducer$Reduction.class
+tspsat\decode\SolutionDecoder$Tour.class
+tspsat\io\InstanceReader.class
+tspsat\Main$1.class
